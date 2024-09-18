@@ -1,6 +1,6 @@
 🌟 Description
 
-Proposal System Generates is an innovative tool designed for modern sales teams that want to quickly and effectively close deals with clients. With our solution, you can move from the initial conversation to a signed contract and completed payment within minutes—all without leaving a single platform! Our system integrates with leading platforms to automate the entire process, from creating a proposal to securing client approval.
+"Close Deal Now" is an innovative AI Automation System designed for modern sales teams that want to quickly and effectively close deals with clients. With our solution, you can move from the initial conversation to a signed contract and completed payment within minutes—all without leaving a single platform! Our system integrates with leading platforms to automate the entire process, from creating a proposal to securing client approval.
 
 🚀 Key Features
 
